@@ -1,9 +1,9 @@
 {
 "companyName": "Indian Truck Simulator 3D 4",
 "productName": "Indian Truck Simulator 3D",
-"dataUrl": "indian_truck_gd_2_0_1.data.unityweb",
-"wasmCodeUrl": "indian_truck_gd_2_0_1.wasm.code.unityweb",
-"wasmFrameworkUrl": "indian_truck_gd_2_0_1.wasm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/zonemedia/truck/indian_truck_gd_2_0_1.data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/zonemedia/truck/indian_truck_gd_2_0_1.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/zonemedia/truck/indian_truck_gd_2_0_1.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
